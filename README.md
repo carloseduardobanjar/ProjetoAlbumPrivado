@@ -10,4 +10,4 @@
 #### O usuario, a senha e o nome da foto são registrados na tabela Usuário do banco de dados.
 #### Depois do usuário ser cadastrado no banco, é inserida ao final do arquivo “log.txt” uma linha com o formato “O {nome do usuário} se cadastrou no sistema”.
 #### Existe, no projeto, um arquivo chamado “msg.txt” que contém em cada uma de suas linhas uma mensagem de boas vindas.
-#### Ao final do processo de cadastro, é sorteada uma das mensagens contida neste arquivo e exibida da seguinte forma: “{mensagem sorteada} {nome do usuário}”.
+#### Ao final do processo de cadastro, é sorteada uma das mensagens contidas neste arquivo e exibida da seguinte forma: “{mensagem sorteada} {nome do usuário}”.
